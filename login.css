@@ -1,0 +1,170 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+nav {
+  height: 120px;
+  background-color: #3f599a;
+  font-family: "Manrope", sans-serif;
+}
+div {
+  display: inline-flex;
+}
+img {
+  position: relative;
+  top: 15px;
+  left: 140px;
+  width: 280px;
+  height: 100px;
+}
+.form1 {
+  position: relative;
+  top: 25px;
+  left: 500px;
+  color: white;
+  font-size: large;
+}
+.form2 {
+  position: relative;
+  top: 25px;
+  left: 520px;
+  color: white;
+  font-size: large;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+}
+.login-btn {
+  position: relative;
+  top: 45px;
+  left: 540px;
+  height: 30px;
+}
+.login {
+  padding: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-style: 2px ridge;
+  border-color: #132243;
+  background-color: #7387ae;
+  color: white;
+}
+#radio1 {
+  width: 20px;
+  height: 20px;
+  margin-top: 6px;
+}
+#radio2 {
+  width: 20px;
+  height: 20px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+main {
+  background-color: #e9eef6;
+  height: 534px;
+  width: auto;
+  display: flexbox;
+}
+.facebook {
+  position: relative;
+  top: 70px;
+  left: 30px;
+  color: #132243;
+  font-family: "Manrope", sans-serif;
+}
+.right {
+  position: relative;
+  top: -30px;
+  left: 730px;
+  font-family: "Manrope", sans-serif;
+}
+.signup {
+  font-size: xx-large;
+  margin: 2px;
+  padding-left: 50px;
+  font-weight: bolder;
+}
+.sub {
+  position: absolute;
+  left: 50px;
+  font-weight: 500;
+  font-size: larger;
+}
+.main-form {
+  position: absolute;
+  top: 90px;
+  left: 38px;
+  display: block;
+}
+#Name {
+  display: flex;
+}
+.name {
+  margin: 5px;
+  border: 1px solid rgb(222, 224, 229);
+  border-radius: 4px;
+  padding: 4px;
+}
+#other {
+  display: block;
+}
+.email {
+  width: 430px;
+  margin: 5px;
+  padding: 4px;
+  border: 1px solid rgb(222, 224, 229);
+  border-radius: 4px;
+  padding: 4px;
+}
+.dob {
+  display: flex;
+  margin: 10px;
+  padding: 4px;
+}
+.birth {
+  width: 230px;
+  border: 1px solid rgb(222, 224, 229);
+  border-radius: 4px;
+  padding: 4px;
+}
+label > a {
+  color: rgb(7, 108, 156);
+  font-size: smaller;
+}
+.gender > .sub-left {
+  position: absolute;
+  left: -70px;
+  margin: 0px;
+  padding: 0px;
+}
+.gender > .sub-right {
+  position: relative;
+  top: -20px;
+  left: 40px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.lef {
+  position: relative;
+  left: 60px;
+  font-size: medium;
+}
+.rig {
+  position: relative;
+  top: -50px;
+  left: 170px;
+}
+footer {
+  position: relative;
+  top: 350px;
+  left: 55px;
+}
+span {
+  color: rgb(7, 108, 156);
+}
